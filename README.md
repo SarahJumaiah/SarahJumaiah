@@ -10,4 +10,4 @@ I specialize in bringing ideas to life on the web, with a knack for creating app
 
 ## __🌐 Explore More__  
 
-You can find my projects, skills, experience, and more on my <a href="https://sarahjumaiah.netlify.app" target="_blank">Portfolio</a>.
+You can find my projects, skills, experience, and more on my [Portfolio](https://sarahjumaiah.netlify.app).
