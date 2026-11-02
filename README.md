@@ -1,13 +1,9 @@
-# __Hi, I'm Sarah AlJumaiah 👋__  
+# __Hi, I'm Sarah Jumaiah 👋__  
 
-Welcome to my GitHub! I'm a front-end developer passionate about building clean, responsive, and user-friendly web applications. I love creating digital experiences that are both impactful and engaging.
+I'm a QA Engineer with a background in software engineering. I work on manual, functional, regression, and end-to-end testing for enterprise projects, and I build automated tests using Playwright and TypeScript.
 
+## 🧪 What I Work With 
 
-## __🚀 About Me__  
-
-I specialize in bringing ideas to life on the web, with a knack for creating applications that prioritize both functionality and design.
-
-
-## __🌐 Explore More__  
-
-You can find my projects, skills, experience, and more on my [Portfolio](https://sarahjumaiah.netlify.app).
+- **Testing:** Manual Testing, API Testing, Test Case Design, Bug Reporting
+- **Automation:** Playwright, TypeScript
+- **Tools:** Azure DevOps, Postman, Git, GitHub
